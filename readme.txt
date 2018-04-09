@@ -12,3 +12,5 @@
 已经放入到缓存区了
 
 管理修改撒地方萨芬      第二次修改了 ，然后再提交  如果不提交是不是没有了？
+
+my stupid boss has checkedout SVN
